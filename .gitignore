@@ -1,3 +1,5 @@
-* .css
-* .jav
-* .html
+*.java
+*.css
+*.html
+!*.yml
+
